@@ -249,7 +249,7 @@
     <section class="newsletter mt-5">
         <div class="container">
             <div class="row ">
-                <div class="col-6 mx-auto text-center">
+                <div class="col-md-6 col-sm-12 mx-auto text-center">
                     <div class="newsletter-box">
                         <h2 class="newsletter-title">Join our newsletter</h2>
                         <p class="newsletter-subtitle">Get 20% off your first order <br> <span>Plus, be the first to
