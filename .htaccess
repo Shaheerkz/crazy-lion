@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /your-project-directory/
+    RewriteBase /https://shaheerkz.github.io/crazy-lion/
 
     # Redirect all requests to the index.php file
     RewriteCond %{REQUEST_FILENAME} !-f
